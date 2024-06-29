@@ -11,7 +11,7 @@
 </p>
 
 <a href="https://gitroll.io/profile/uLtbxVpsaqSeszTXZKdc4eTuk2YE3" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uLtbxVpsaqSeszTXZKdc4eTuk2YE3" alt="GitRoll Profile Badge" height="400"/>
+  <img src="https://gitroll.io/api/badges/profiles/v1/uLtbxVpsaqSeszTXZKdc4eTuk2YE3" alt="GitRoll Profile Badge" height="300"/>
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
